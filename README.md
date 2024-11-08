@@ -7,6 +7,9 @@ Responsive Design: Looks great on desktop, tablet, and mobile.
 Interactive Elements: Dynamic and engaging user experience with smooth animations.
 Customizable: Easily update sections and content as my skills and projects grow.
 Feel free to explore, fork, or clone this repository, and let me know if you have any feedback.
+I will also be uploading the source code required to build a similar website like this.
+
+Note: This project is totally built using the latest version of Git do make sure to install git in your windows/mac to make this code work
 
 Below are some preview images showcasing the design, responsiveness, and interactive elements of the site.
 
